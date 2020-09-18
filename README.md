@@ -32,6 +32,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
 
 # Segmentation
+- [Segmentation of Lungs in Chest X-Ray Image Using Generative Adversarial Networks] [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9171249) [[arXiv]](https://arxiv.org/abs/2009.05752)
 - [SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SegAN%3A+Adversarial+Network+with+Multi-scale+L1+Loss+for+Medical+Image+Segmentation&btnG=) [[arXiv]](https://arxiv.org/abs/1706.01805)
 - [Adversarial training and dilated convolutions for brain MRI segmentation] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+training+and+dilated+convolutions+for+brain+MRI+segmentation&btnG=) [[arXiv]](https://arxiv.org/abs/1707.03195)
 - [Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Retinal+Vessel+Segmentation+in+Fundoscopic+Images+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1706.09318)
